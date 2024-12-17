@@ -1,6 +1,4 @@
 import React from "react";
-
-import Navbar from "./components/navbar";
 import Hero from "./components/herosection";
 import Brand from "./components/brand";
 import Ceramics from "./components/ceramics";

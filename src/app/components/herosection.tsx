@@ -1,4 +1,3 @@
-import Image from "../../public/assest/images/right.png";
 import React from "react";
 
 const Hero = () => {
