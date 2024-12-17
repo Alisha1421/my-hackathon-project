@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import Hero from "./components/herosection";
 import Brand from "./components/brand";
